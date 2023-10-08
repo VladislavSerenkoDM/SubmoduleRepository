@@ -1,2 +1,2 @@
-#This is my submodule module
+#This is my submodule project
 for "GitLearnProject" repository!
